@@ -87,6 +87,6 @@ export const ask = {
   lead: "I am looking for my lobster (it should be an albatross, or something. Phoebe fooled us here). This only finishes if it is you.",
   list: "Google. Another jump when you want it. Stars, and a cold night walk. Poetry somewhere quiet. A movie. A bad dance in the rain. Games we are allowed to lose.",
   question: "Will you take this list with me?",
-  yes: "Then it is you. The umbrella, the stars, and one very small lobster.",
+  yes: "Then it is you. The umbrella, the stars, and one match.",
   later: "Then we keep the plan. No countdown.",
 }
