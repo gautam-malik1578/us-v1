@@ -240,7 +240,7 @@ h1 {
 }
 
 .gate {
-  position: absolute;
+  position: fixed;
   inset: 0;
   z-index: 5;
   display: grid;
@@ -250,7 +250,7 @@ h1 {
 }
 
 .gate-card {
-  width: min(100%, 380px);
+  width: min(100%, 580px);
   max-height: min(86dvh, 640px);
   overflow: auto;
   padding: 18px 16px 14px;
