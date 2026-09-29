@@ -31,6 +31,18 @@ export const opening = {
   line: "Two engineers. A few jumps. Countless stars. Some walks on cold nights. Poetry somewhere quiet. The point is simple. None of it happens without you.",
 }
 
+export const gate = {
+  title: "Hey stranger",
+  line: "I do not know what ticked you off. I have always believed I am a better talker than a chatter, especially given time. If you feel like reconnecting, enter yourName@company@yourHeight for the contact details. If not, chill. Go break a leg. Nice knowing you.",
+  placeholder: "name@company@height",
+  submit: "Show the number",
+  dismiss: "Chill",
+  miss: "That does not open it. The details stay put.",
+  limited: "Too many tries. Leave it for a while.",
+  error: "The check is not reachable yet.",
+  found: "Here it is.",
+}
+
 export const work = {
   eyebrow: "the work",
   title: "Somewhere good. And a study buddy.",
