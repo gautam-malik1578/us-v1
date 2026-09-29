@@ -33,14 +33,14 @@ export const opening = {
 
 export const gate = {
   title: "Hey stranger",
-  line: "I do not know what ticked you off. I have always believed I am a better talker than a chatter, especially given time. If you feel like reconnecting, enter yourName@company@yourHeight for the contact details. If not, chill. Go break a leg. Nice knowing you.",
+  line: "I do not know what ticked you off. I have been told I am a better talker than a chatter, especially given time. If you feel like reconnecting, enter yourName@companyUMentoined@yourHeightinInches for the contact details. If not, chill. Go break a leg. Nice knowing you.",
   placeholder: "name@company@height",
-  submit: "Show the number",
+  submit: "Show the details",
   dismiss: "Chill",
-  miss: "That does not open it. The details stay put.",
+  miss: "nope :(",
   limited: "Too many tries. Leave it for a while.",
   error: "The check is not reachable yet.",
-  found: "Here it is.",
+  found: "Found it!",
 }
 
 export const work = {
